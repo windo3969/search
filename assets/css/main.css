@@ -232,10 +232,11 @@ input, select, textarea {
 		font-size: 1.25rem;
 		font-family: "NanumGothicBold";
 		margin: 0 0 2rem 0;
+		background-color:#eeeeee;
 	}
 
 	h3 {
-		font-size: 0.875rem;
+		font-size: 1.3rem;
 	}
 
 	h4 {
